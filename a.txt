@@ -1,0 +1,1 @@
+git status - vê a situação do projeto (ver se tem alterações)
