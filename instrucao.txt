@@ -1,4 +1,15 @@
+ISTRUÇÕES
+
+selecionar a pasta do projeto - clicar com o botao direito e abrir com o GIT BASH
 git status -> vê a situação do projeto (ver se tem alterações)
 git add . -> adiciona as alterações pra poder fazer o commit
 git commit -m "(mensagem)" -> ele salva as alterações e envia uma mensagem sobre elas
 git push -> ele envia o commit para o github
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+MODELAGEM projeto
+
+TITULO  COR - FONTE - FUNDO ETC
